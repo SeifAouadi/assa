@@ -1,0 +1,17 @@
+#elevatorcontainer{
+position: relative;
+BORDER: 1px solid black;
+BACKGROUND :green;
+height:500px;
+width: 500px;
+}
+
+#elevator{
+position: absolute;
+BORDER:0.5px solid black;
+BACKGROUND :white;
+height:50px;
+width: 50px;
+top: 450px;
+left: 450px;
+}
